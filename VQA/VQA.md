@@ -27,7 +27,7 @@
 > Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding (NeurIPS 2018)
 [paper](https://arxiv.org/abs/1810.02338)
 [code](https://github.com/kexinyi/ns-vqa)
-[blog1]([https://zhuanlan.zhihu.com/p/61533835)
+[blog1](https://zhuanlan.zhihu.com/p/61533835)
 [blog2](https://zhuanlan.zhihu.com/p/46392910)
 
 > Out of the Box: Reasoning with Graph ConvolutionNets for Factual Visual Question Answering (NIPS2018)
@@ -43,7 +43,7 @@
 [paper](https://zpascal.net/cvpr2019/Tang_Learning_to_Compose_Dynamic_Tree_Structures_for_Visual_Contexts_CVPR_2019_paper.pdf)
 
 > KVQA: Knowledge-aware Visual Question Answering(AAAI2019)
-[paper]https://www.aaai.org/ojs/index.php/AAAI/article/view/4915
+[paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4915)
 [code](http://malllabiisc.github.io/resources/kvqa/)
 
 > OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge (cvpr2019)
