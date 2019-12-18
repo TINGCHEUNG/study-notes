@@ -28,7 +28,7 @@
 [paper](https://arxiv.org/abs/1810.02338)
 [code](https://github.com/kexinyi/ns-vqa)
 [blog1]([https://zhuanlan.zhihu.com/p/61533835)
-[blog2](https://zhuanlan.zhihu.com/p/46392910))
+[blog2](https://zhuanlan.zhihu.com/p/46392910)
 
 > Out of the Box: Reasoning with Graph ConvolutionNets for Factual Visual Question Answering (NIPS2018)
 [paper](https://arxiv.org/abs/1811.00538)
@@ -84,13 +84,13 @@
 
 #### codes
 
-(https://github.com/liuzhi136/Visual-Question-Answering)
-(https://github.com/anantzoid/VQA-Keras-Visual-Question-Answering)
-(https://github.com/paarthneekhara/neural-vqa-tensorflow)
-(https://github.com/Cadene/block.bootstrap.pytorch)
-(https://github.com/Cadene/vqa.pytorch)
-(https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch)
-(https://github.com/peteanderson80/bottom-up-attention)
+(https://github.com/liuzhi136/Visual-Question-Answering)  
+(https://github.com/anantzoid/VQA-Keras-Visual-Question-Answering)  
+(https://github.com/paarthneekhara/neural-vqa-tensorflow)  
+(https://github.com/Cadene/block.bootstrap.pytorch)  
+(https://github.com/Cadene/vqa.pytorch)  
+(https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch)  
+(https://github.com/peteanderson80/bottom-up-attention)  
 (https://github.com/paarthneekhara/neural-vqa-tensorflow)
 
 ## Other links about VQA
