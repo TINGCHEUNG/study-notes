@@ -80,7 +80,8 @@
 
 #### Summary
 
-[link](https://github.com/seagle0128/Algorithm_Interview_Notes-Chinese/blob/master/_papers/QA-%E8%A7%86%E8%A7%89%E9%97%AE%E7%AD%94-A-%E7%BB%BC%E8%BF%B0.md)
+[link](https://github.com/seagle0128/Algorithm_Interview_Notes-Chinese/blob/master/_papers/QA-%E8%A7%86%E8%A7%89%E9%97%AE%E7%AD%94-A-%E7%BB%BC%E8%BF%B0.md)  
+[Knowledge-Based Visual Reasoning (dynamic updating)](https://github.com/deanli/vkr-papers/blob/f7e044ee5e6baf2347406419903d3b51d381799b/Knowledge-based%20Visual%20Reasoning.md)
 
 #### codes
 
