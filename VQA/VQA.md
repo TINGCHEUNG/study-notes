@@ -35,6 +35,7 @@
 
 > Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks (KDD2019)
 [paper](https://arxiv.org/abs/1905.08865)
+不建议做
 
 > From Strings to Things: Knowledge-enabled VQA Models that can Read and Reason (ICCV2019)
 [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Singh_From_Strings_to_Things_Knowledge-Enabled_VQA_Model_That_Can_Read_ICCV_2019_paper.pdf)
