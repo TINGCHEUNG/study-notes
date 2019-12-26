@@ -15,7 +15,7 @@
 
 > Explicit Knowledge-based Reasoning for Visual Question Answering (IJCAI2017)
 [paper](https://www.ijcai.org/proceedings/2017/179)
-[code](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/80851407)
+[blog](https://blog.csdn.net/TgqDT3gGaMdkHasLZv/article/details/80851407)
 
 > Knowledge Acquisition for Visual Question Answering via Iterative Querying (cvpr2017)
 [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_Knowledge_Acquisition_for_CVPR_2017_paper.pdf)
