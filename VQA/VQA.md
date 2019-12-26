@@ -89,7 +89,7 @@
 #### Summary
 
 [视觉问答（VQA）综述](https://github.com/seagle0128/Algorithm_Interview_Notes-Chinese/blob/master/_papers/QA-%E8%A7%86%E8%A7%89%E9%97%AE%E7%AD%94-A-%E7%BB%BC%E8%BF%B0.md)  
-[Knowledge-Based Visual Reasoning (dynamic updating)](https://github.com/Sympathize/vkr-papers)
+[Knowledge-Based Visual Reasoning (dynamic updating)](https://github.com/Sympathize/vkr-papers)  
 [Awesome_VQA](https://github.com/waallf/Awesome_VQA)
 
 #### codes
