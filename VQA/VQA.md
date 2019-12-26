@@ -30,12 +30,11 @@
 [blog1](https://zhuanlan.zhihu.com/p/61533835)
 [blog2](https://zhuanlan.zhihu.com/p/46392910)
 
-> Out of the Box: Reasoning with Graph ConvolutionNets for Factual Visual Question Answering (NIPS2018)
+> Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering (NIPS2018)
 [paper](https://arxiv.org/abs/1811.00538)
 
 > Estimating Node Importance in Knowledge Graphs Using Graph Neural Networks (KDD2019)
 [paper](https://arxiv.org/abs/1905.08865)
-不建议做
 
 > From Strings to Things: Knowledge-enabled VQA Models that can Read and Reason (ICCV2019)
 [paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Singh_From_Strings_to_Things_Knowledge-Enabled_VQA_Model_That_Can_Read_ICCV_2019_paper.pdf)
@@ -59,6 +58,18 @@
 [paper](https://github.com/sanket0211/WK-VQA/)
 
 
+### Based on GNN
+
+> Graph Reasoning Networks for Visual Question Answering (Arxiv)
+[paper](https://arxiv.org/pdf/1907.09815.pdf)
+
+> Out of the Box: Reasoning with Graph Convolution Nets for Factual Visual Question Answering (NIPS2018)
+[paper](https://arxiv.org/abs/1811.00538)
+
+> Relation-aware Graph Attention Network for Visual Question Answering (ICCV2019)
+[paper](https://arxiv.org/pdf/1903.12314.pdf)
+[blog](https://zhuanlan.zhihu.com/p/63820622)
+
 ### Based on ML
 
 > Learning Visual Question Answering byBootstrapping Hard Attention
@@ -68,10 +79,6 @@
 > BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection
 [paper](https://arxiv.org/abs/1902.00038)
 [code](https://github.com/Cadene/block.bootstrap.pytorch)
-
-> Relation-aware Graph Attention Network for Visual Question Answering
-[paper](https://arxiv.org/pdf/1903.12314.pdf)
-[blog](https://zhuanlan.zhihu.com/p/63820622)
 
 > GitHub Link [link](https://github.com/chingyaoc/awesome-vqa)
 
@@ -83,6 +90,7 @@
 
 [视觉问答（VQA）综述](https://github.com/seagle0128/Algorithm_Interview_Notes-Chinese/blob/master/_papers/QA-%E8%A7%86%E8%A7%89%E9%97%AE%E7%AD%94-A-%E7%BB%BC%E8%BF%B0.md)  
 [Knowledge-Based Visual Reasoning (dynamic updating)](https://github.com/Sympathize/vkr-papers)
+[Awesome_VQA](https://github.com/waallf/Awesome_VQA)
 
 #### codes
 
