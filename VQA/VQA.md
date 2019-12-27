@@ -95,7 +95,12 @@
 [paper](https://arxiv.org/abs/1902.00038)
 [code](https://github.com/Cadene/block.bootstrap.pytorch)
 
-> GitHub Link [link](https://github.com/chingyaoc/awesome-vqa)
+> awesome-vqa [link](https://github.com/chingyaoc/awesome-vqa)
+
+### Relational Reasoning
+
+> A simple neural network module for relational reasoning
+[paper](https://arxiv.org/pdf/1706.01427.pdf)
 
 ## GitHub link about VQA
 
