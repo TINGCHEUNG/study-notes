@@ -25,6 +25,51 @@
 > Survey of Visual Question Answering: Datasets and Techniques (2017)
 [paper](https://arxiv.org/pdf/1705.03865.pdf)
 
+### CVPR 2019 About VQA
+
+> MUREL: Multimodal Relational Reasoning for Visual Question Answering
+[paper](https://arxiv.org/abs/1902.09487)
+
+> Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation
+[paper](https://arxiv.org/abs/1811.10092)
+[blog](https://mp.weixin.qq.com/s/LsHWkdwqqrOPFgCNNcBdpg)
+
+> Image-Question-Answer Synergistic Network for Visual Dialog
+[paper](https://arxiv.org/abs/1902.09774)
+
+> Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation(oral)
+[paper](https://arxiv.org/abs/1903.02547)
+[youtube](https://youtu.be/ik9uz06Fcpk)
+
+> Learning to Compose Dynamic Tree Structures for Visual Contexts（VQA,Oral）
+[paper](https://arxiv.org/abs/1812.01880)
+[code](https://github.com/KaihuaTang/VCTree-Visual-Question-Answering)
+
+> Transfer Learning via Unsupervised Task Discovery for Visual Question Answering（VQA)
+[paper](https://arxiv.org/abs/1810.02358)
+
+> Information Maximizing Visual Question Generation(VQA)
+[paper](https://arxiv.org/abs/1903.11306)
+
+> Answer Them All! Toward Universal Visual Question Answering Models（VQA)
+[paper](https://arxiv.org/abs/1903.00366)
+[blog](https://blog.csdn.net/z704630835/article/details/99287301)
+
+> Cycle-Consistency for Robust Visual Question Answering（VQA)
+[paper](https://arxiv.org/pdf/1812.05252.pdf)
+
+> Towards VQA Models that can Read
+[paper](https://arxiv.org/abs/1904.08920)
+
+> Grounded Video Description (Oral)
+[paper](https://arxiv.org/abs/1812.06587)
+[code](https://github.com/facebookresearch/grounded-video-description)
+
+> Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning
+[paper](https://arxiv.org/abs/1812.00971)
+[code](https://github.com/allenai/savn)
+
+
 ### Based on Knowledge
 
 > Building a Large-scale Multimodal Knowledge Base System for Answering Visual Queries 
