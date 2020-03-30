@@ -80,6 +80,10 @@
 > WK-VQA(need feedback in GitHub)
 [paper](https://github.com/sanket0211/WK-VQA/)
 
+> Answer Them All! Toward Universal Visual Question Answering Models(cvpr2019)
+[paper](https://arxiv.org/abs/1903.00366)
+[blog](https://blog.csdn.net/z704630835/article/details/99287301)
+
 
 ### Based on GNN
 
